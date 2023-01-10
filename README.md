@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EEpchi
 - 👀 I’m interested in LaTeX
-- 🌱 I’m currently learning CircuiTikZ
+- 🌱 I’m currently learning CircuiTikZ / TikZ
 - 📫 How to reach me t1416956766@gmail.com
 
 <!---
