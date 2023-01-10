@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @EEpchi
 - 👀 I’m interested in LaTeX
 - 🌱 I’m currently learning CircuiTikZ
-- //💞️ I’m looking to collaborate on ...
-- //📫 How to reach me t1416956766@gmail.com
+- 📫 How to reach me t1416956766@gmail.com
 
 <!---
 EEpchi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
